@@ -1,0 +1,3 @@
+menu.mp3    "Battle in the winter" by jobromedia - CC0- https://opengameart.org/content/battle-in-the-winter
+battle.ogg  "8-Bit Battle Loop" by Wolfgang_ - CC0 - https://opengameart.org/content/8-bit-battle-loop
+victory.ogg "8-Bit Victory Loop" by Wolfgang_ - CC0 - https://opengameart.org/content/8-bit-victory-loop

@@ -1,0 +1,13 @@
+.git
+.gitignore
+__pycache__/
+PokeAPI/
+*.zip
+*.pdf
+*.tex
+assets/sprites/
+assets/sounds/
+assets/data/*.json
+Dockerfile
+compose.yaml
+.dockerignore
